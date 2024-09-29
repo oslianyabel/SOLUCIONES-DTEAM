@@ -42,4 +42,22 @@ Servicios:
 
     Al interesarse un usuario por un servicio se inicia una conversación con el bot
 
-Revisar preguntas frecuentes y respuestas
+Cosas para hacer genericas:
+- Sobre nosotros
+    Párrafo, documento a descargar, activo(1)
+- 3 Herramientas:
+    Nombre y descripción, activo(3)
+- 4 Skills:
+    Nombres y porcentajes, activo(4)
+- Servicios:
+    Nombre, descripción, categoría, activo
+- Ejemplos:
+    Nombre, categoría, imagen, activo(max 9)
+- Equipo:
+    Imagen, nombre y apellido, cargo, evento, fecha, fuente, activo(4)
+- Preguntas frecuentes:
+    Pregunta, respuesta, activo(max 9)
+- Contacto:
+    Dirección, correo, teléfono fijo, teléfono móvil, links de ayuda, redes sociales
+- Links:
+    nombre, link
