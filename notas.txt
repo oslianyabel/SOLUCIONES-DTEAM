@@ -1,0 +1,45 @@
+comencemos abre conversacion con chatbot
+
+ver mas en sobre nosotros descarga word con info detallada
+
+Servicios:
+    Tarjetas con categorias de servicios
+        definir mejor las categorías
+        faltan parrafos descriptivos
+        click en ellas llevan a un listado de servicios de esa categoría
+
+    Listado de Sercicios:
+        Sin cuestionarios:
+            SaaS:
+                - Odoo website
+                - CRM Odoo
+                - Decidroid
+                - Firma Digital
+                - Creación de QR para servicios de Bancarización
+                - Procesamiento de datos
+                - Diseño y mantenimiento de sitios web
+                - Diseño y Webmáster de páginas web
+                - Externalización de servicios
+            On-Premise:
+                - Distribución de Versat y Segurmática AV
+                - Microsoft Project 2013
+                - Desarrollo de Software
+                - Montaje de redes informáticas
+                - Despliegue y soporte de productos de software
+                - Mantenimiento a Computadoras
+            Capacitación y asesoramiento:
+                - Elaboración y asesoría de planes de seguridad informática
+                - Consultorías en tecnologías de la información
+                - Gestión de proyectos
+                - Capacitación profesional (presencial y online)
+                - Marketing Digital
+            
+        Con cuestionarios:
+            - Energux
+            - Myros
+            - Servidores
+            - Fastos-Pagus
+
+    Al interesarse un usuario por un servicio se inicia una conversación con el bot
+
+Revisar preguntas frecuentes y respuestas
